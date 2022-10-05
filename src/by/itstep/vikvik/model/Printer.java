@@ -4,7 +4,7 @@ import java.util.Random;
 import java.util.concurrent.TimeUnit;
 
 public class Printer {
-    private static final int TIMEOUT = 200;
+    private static final int TIMEOUT = 10;
 
     private static Random random;
 
